@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//1
 //将n个圆盘从柱x移至柱z，可借助y
 void Hanoi(int n,char x,char y,char z);
 
